@@ -1,0 +1,378 @@
+D:\Object detect\Object detect\bin\Debug\cvextern.dll
+D:\Object detect\Object detect\bin\Debug\msvcp120.dll
+D:\Object detect\Object detect\bin\Debug\msvcr120.dll
+D:\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+D:\Object detect\Object detect\bin\Debug\Object detect.exe.config
+D:\Object detect\Object detect\bin\Debug\Object detect.exe
+D:\Object detect\Object detect\bin\Debug\Object detect.pdb
+D:\Object detect\Object detect\bin\Debug\Emgu.CV.World.dll
+D:\Object detect\Object detect\bin\Debug\Emgu.CV.World.xml
+D:\Object detect\Object detect\obj\Debug\Object detect.csprojResolveAssemblyReference.cache
+D:\Object detect\Object detect\obj\Debug\Object_detect.Form1.resources
+D:\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+D:\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.Cache
+D:\Object detect\Object detect\obj\Debug\Object detect.exe
+D:\Object detect\Object detect\obj\Debug\Object detect.pdb
+D:\Object detect\Object detect\bin\Debug\IronPython.dll
+D:\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+D:\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+D:\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+D:\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+D:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+D:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Object detect\Object detect\bin\Debug\IronPython.xml
+D:\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+D:\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+D:\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+D:\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+D:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+D:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Object detect\Object detect\bin\Debug\cvextern.dll
+C:\Object detect\Object detect\bin\Debug\msvcp120.dll
+C:\Object detect\Object detect\bin\Debug\msvcr120.dll
+C:\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+C:\Object detect\Object detect\bin\Debug\Object detect.exe.config
+C:\Object detect\Object detect\bin\Debug\Object detect.exe
+C:\Object detect\Object detect\bin\Debug\Object detect.pdb
+C:\Object detect\Object detect\bin\Debug\Emgu.CV.World.dll
+C:\Object detect\Object detect\bin\Debug\IronPython.dll
+C:\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+C:\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+C:\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+C:\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+C:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+C:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Object detect\Object detect\bin\Debug\Emgu.CV.World.xml
+C:\Object detect\Object detect\bin\Debug\IronPython.xml
+C:\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+C:\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+C:\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+C:\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+C:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+C:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Object detect\Object detect\obj\Debug\Object detect.csprojResolveAssemblyReference.cache
+C:\Object detect\Object detect\obj\Debug\Object_detect.Form1.resources
+C:\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+C:\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.Cache
+C:\Object detect\Object detect\obj\Debug\Object detect.exe
+C:\Object detect\Object detect\obj\Debug\Object detect.pdb
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\cvextern.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\msvcp120.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\msvcr120.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\Object detect.exe.config
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\Object detect.exe
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\Object detect.pdb
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\IronPython.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\Emgu.CV.World.xml
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\IronPython.xml
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+C:\Users\PC\Desktop\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\PC\Desktop\Object detect\Object detect\obj\Debug\Object detect.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\Object detect\Object detect\obj\Debug\Object_detect.Form1.resources
+C:\Users\PC\Desktop\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+C:\Users\PC\Desktop\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Object detect\Object detect\obj\Debug\Object detect.exe
+C:\Users\PC\Desktop\Object detect\Object detect\obj\Debug\Object detect.pdb
+E:\Object detect\Object detect\bin\Debug\cvextern.dll
+E:\Object detect\Object detect\bin\Debug\msvcp120.dll
+E:\Object detect\Object detect\bin\Debug\msvcr120.dll
+E:\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+E:\Object detect\Object detect\bin\Debug\Object detect.exe.config
+E:\Object detect\Object detect\bin\Debug\Object detect.exe
+E:\Object detect\Object detect\bin\Debug\Object detect.pdb
+E:\Object detect\Object detect\bin\Debug\IronPython.dll
+E:\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+E:\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+E:\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+E:\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+E:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+E:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+E:\Object detect\Object detect\bin\Debug\Emgu.CV.World.xml
+E:\Object detect\Object detect\bin\Debug\IronPython.xml
+E:\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+E:\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+E:\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+E:\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+E:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+E:\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+E:\Object detect\Object detect\obj\Debug\Object detect.csprojAssemblyReference.cache
+E:\Object detect\Object detect\obj\Debug\Object_detect.Form1.resources
+E:\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+E:\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.cache
+E:\Object detect\Object detect\obj\Debug\Object detect.csproj.CoreCompileInputs.cache
+E:\Object detect\Object detect\obj\Debug\Object detect.csproj.CopyComplete
+E:\Object detect\Object detect\obj\Debug\Object detect.exe
+E:\Object detect\Object detect\obj\Debug\Object detect.pdb
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\cvextern.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\msvcp120.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\msvcr120.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe.config
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\Object detect.pdb
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\IronPython.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\Emgu.CV.World.xml
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\IronPython.xml
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csprojAssemblyReference.cache
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Form1.resources
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.cache
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CoreCompileInputs.cache
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CopyComplete
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\obj\Debug\Object detect.exe
+F:\Soft\Soft-Laptrinh\YOLO API\Object detect\Object detect\obj\Debug\Object detect.pdb
+C:\YOLO API\Object detect\Object detect\bin\Debug\cvextern.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\msvcp120.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\msvcr120.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe.config
+C:\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe
+C:\YOLO API\Object detect\Object detect\bin\Debug\Object detect.pdb
+C:\YOLO API\Object detect\Object detect\bin\Debug\IronPython.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\YOLO API\Object detect\Object detect\bin\Debug\Emgu.CV.World.xml
+C:\YOLO API\Object detect\Object detect\bin\Debug\IronPython.xml
+C:\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+C:\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+C:\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+C:\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+C:\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+C:\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csprojAssemblyReference.cache
+C:\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Form1.resources
+C:\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+C:\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.cache
+C:\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CoreCompileInputs.cache
+C:\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CopyComplete
+C:\YOLO API\Object detect\Object detect\obj\Debug\Object detect.exe
+C:\YOLO API\Object detect\Object detect\obj\Debug\Object detect.pdb
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\cvextern.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\msvcp120.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\msvcr120.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe.config
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\Object detect.pdb
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\IronPython.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\Emgu.CV.World.xml
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\IronPython.xml
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Form1.resources
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.cache
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CoreCompileInputs.cache
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CopyComplete
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\obj\Debug\Object detect.exe
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\obj\Debug\Object detect.pdb
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.AssemblyReference.cache
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Diagnostic.resources
+C:\Users\Nguyen Ngoc Quy\CODE\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Form2.resources
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\cvextern.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\msvcp120.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\msvcr120.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe.config
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\Object detect.pdb
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\IronPython.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\Emgu.CV.World.xml
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\IronPython.xml
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.AssemblyReference.cache
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Diagnostic.resources
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Form1.resources
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Form2.resources
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.cache
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CoreCompileInputs.cache
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CopyComplete
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object detect.exe
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object detect.pdb
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.AI_Medicine.resources
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.General_Medical.resources
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Home2.resources
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Patient_follow_up.resources
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Statistics_of_hospital_beds.resources
+D:\Intelligent Nurse\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Home.resources
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\cvextern.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\msvcp120.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\msvcr120.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe.config
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\Object detect.pdb
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\IronPython.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\Emgu.CV.World.xml
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\IronPython.xml
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+D:\IN\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.AssemblyReference.cache
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.SuggestedBindingRedirects.cache
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.AI_Medicine.resources
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Diagnostic.resources
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.General_Medical.resources
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Home.resources
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Home2.resources
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Patient_follow_up.resources
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Statistics_of_hospital_beds.resources
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.cache
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CoreCompileInputs.cache
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object detect.exe
+D:\IN\YOLO API\Object detect\Object detect\obj\Debug\Object detect.pdb
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\cvextern.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\msvcp120.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\msvcr120.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe.config
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Object detect.pdb
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Emgu.CV.World.xml
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.xml
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.AssemblyReference.cache
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.AI_Medicine.resources
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.General_Medical.resources
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Home.resources
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Home2.resources
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Patient_follow_up.resources
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Statistics_of_hospital_beds.resources
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.cache
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CoreCompileInputs.cache
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CopyComplete
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.exe
+C:\Users\hung\Downloads\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.pdb
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.SuggestedBindingRedirects.cache
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.AI_Medicine.resources
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.General_Medical.resources
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Home.resources
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Home2.resources
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Patient_follow_up.resources
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.Statistics_of_hospital_beds.resources
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.WarningForm.resources
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.GenerateResource.cache
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CoreCompileInputs.cache
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.exe
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.pdb
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\cvextern.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\msvcp120.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\msvcr120.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe.config
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Object detect.exe
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Object detect.pdb
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\BouncyCastle.Crypto.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Google.Protobuf.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\K4os.Compression.LZ4.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\K4os.Hash.xxHash.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\MySql.Data.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\MySqlConnector.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Buffers.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Memory.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Numerics.Vectors.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Ubiety.Dns.Core.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\ZstdNet.dll
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Google.Protobuf.pdb
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Google.Protobuf.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Modules.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.SQLite.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\IronPython.Wpf.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\K4os.Compression.LZ4.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\K4os.Hash.xxHash.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dynamic.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\MySql.Data.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\MySqlConnector.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Buffers.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Memory.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Numerics.Vectors.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.AssemblyReference.cache
