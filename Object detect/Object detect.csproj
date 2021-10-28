@@ -130,6 +130,7 @@
     <Compile Include="AI_Medicine.Designer.cs">
       <DependentUpon>AI_Medicine.cs</DependentUpon>
     </Compile>
+    <Compile Include="Connect_SQL_IN.cs" />
     <Compile Include="General Medical.cs">
       <SubType>Form</SubType>
     </Compile>

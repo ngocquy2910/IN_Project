@@ -82,7 +82,7 @@ namespace Object_detect
             ++ina;
             if(ina > 0)
             {
-                CreateButton(panel6);
+                CreateButton(panel6); 
             }
             
         }

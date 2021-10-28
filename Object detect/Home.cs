@@ -32,17 +32,17 @@ namespace Object_detect
 
         private void An_panel()
         {
-            panel_Emergency_department.Visible = false;
-            panel_Sub_Internal_medicine_department.Visible = false;
+           // panel_Emergency_department.Visible = false;
+           // panel_Sub_Internal_medicine_department.Visible = false;
             //...
         }
 
         private void HideSubMenu()
         {
-            if (panel_Emergency_department.Visible == true)
-                panel_Emergency_department.Visible = false;
-            if (panel_Sub_Internal_medicine_department.Visible == true)
-                panel_Sub_Internal_medicine_department.Visible = false;
+          //  if (panel_Emergency_department.Visible == true)
+             //   panel_Emergency_department.Visible = false;
+              //if (panel_Sub_Internal_medicine_department.Visible == true)
+                //panel_Sub_Internal_medicine_department.Visible = false;
         }
 
         private void showSubMenu(Panel A)
@@ -58,20 +58,17 @@ namespace Object_detect
 
         private void btn_Emergency_department_Click(object sender, EventArgs e)
         {
-            showSubMenu(panel_Emergency_department);
+            //showSubMenu(panel_Emergency_department);
         }
 
         private void btn_Internal_medicine_department_Click(object sender, EventArgs e)
         {
-            showSubMenu(panel_Sub_Internal_medicine_department);
+            //showSubMenu(panel_Sub_Internal_medicine_department);
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
             HideSubMenu();
-            openChildForm(new Statistics_of_hospital_beds());
-
-
         }
 
         private void button3_Click(object sender, EventArgs e)
@@ -148,14 +145,102 @@ namespace Object_detect
             HideSubMenu();
         }
 
-        private void panel_main_Paint(object sender, PaintEventArgs e)
-        {
-
-        }
-
         private void Home_Load(object sender, EventArgs e)
         {
             rick_txt_send.Region = Region.FromHrgn(CreateRoundRectRgn(0, 0, rick_txt_send.Width, rick_txt_send.Height, 30, 30));
+            Connect_SQL_IN.GetDBConnection(); // conncet Mysql;
+            HienThiKhoa();
         }
+
+        //-----------------------------------------BEGIN: Hiển Thị Khoa------------------------------------------------------
+        Panel A = null;
+        int x = 70;
+        public void HienThiKhoa()
+        {
+            A = new Panel();
+            Button Home = new Button();
+            Home.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(56)))), ((int)(((byte)(143)))));
+            Home.FlatAppearance.BorderSize = 0;
+            Home.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+            Home.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            Home.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            Home.ForeColor = System.Drawing.Color.White;
+            Home.Image = global::Object_detect.Properties.Resources.home__1_;
+            Home.Location = new System.Drawing.Point(0, 0);
+            Home.Name = "btn_home";
+            Home.Size = new System.Drawing.Size(222, 69);
+            Home.TabIndex = 0;
+            Home.Text = "HOME";
+            Home.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            Home.UseVisualStyleBackColor = false;
+            Home.Click += new System.EventHandler(this.btn_home_Click);
+            this.panel_Directional.Controls.Add(Home);
+            int TongKhoa = Connect_SQL_IN.TongKhoaINT();
+            for(int i=1; i<=TongKhoa;i++)
+            {
+                Button Khoa = new Button();
+                Khoa.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(56)))), ((int)(((byte)(143)))));
+                Khoa.FlatAppearance.BorderColor = System.Drawing.Color.White;
+                Khoa.FlatAppearance.BorderSize = 0;
+                Khoa.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
+                Khoa.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+                Khoa.ForeColor = System.Drawing.Color.White;
+                Khoa.Location = new System.Drawing.Point(0, x);
+                Khoa.Name = "btn_Emergency_department";
+                Khoa.Size = new System.Drawing.Size(222, 45);
+                Khoa.TabIndex = 2;
+              //  Khoa.Text = "NÚT TEST "+ i;
+                Khoa.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+                Khoa.UseVisualStyleBackColor = false;
+               // Khoa.Click += new System.EventHandler(this.Btn_General_Medical);
+         
+                Connect_SQL_IN.HienThiTenKhoa(Khoa, i);
+                this.panel_Directional.Controls.Add(Khoa);
+                x += 45;
+
+                if(Khoa.Name == "Emergency department")
+                {
+                      Khoa.Click += new System.EventHandler(this.Btn_General_Medical);
+                }
+                if(Khoa.Name == "Patient follow-up")
+                {
+                  // Khoa.Click += new System.EventHandler(this.Btn_Patient_follow_up); // Lỗi hiển thị vô hạn.
+                }
+                if (Khoa.Name == "Statistics of hospital beds" || Khoa.Name == "Genenal Medical"|| Khoa.Name == "Patient follow-up")
+                {
+                    Khoa.Click += new System.EventHandler(this.Btn_Statistics_of_hospital_beds);
+                }
+            }
+        }
+
+        //-----------------------------------------END: Hiển Thị Khoa--------------------------------------------------------
+        //-----------------------------------------BEGIN: Tạo Sự kiện button----------------------------------------------
+        private void buttonClick(object sender, EventArgs e)
+        {
+            Button current = (Button)sender;
+            MessageBox.Show(current.Name);
+        }
+        
+        private void Btn_General_Medical(Object sender, EventArgs e)
+        {
+            Button current = (Button)sender;
+            openChildForm(new General_Medical());
+        }
+
+        private void Btn_Patient_follow_up(Object sender, EventArgs e)
+        {
+            Button current = (Button)sender;
+            openChildForm(new Patient_follow_up());
+        }
+
+        private void Btn_Statistics_of_hospital_beds(Object sender, EventArgs e)
+        {
+            Button current = (Button)sender;
+            openChildForm(new Statistics_of_hospital_beds());
+        }
+
+        //-----------------------------------------END: Tạo Sự kiện button------------------------------------------------
     }
+
+
 }
