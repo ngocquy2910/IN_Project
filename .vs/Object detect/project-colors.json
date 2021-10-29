@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "29ccaa12-aaf2-43b6-ad87-f680bf3fe740": {
+      "ProjectGuid": "29ccaa12-aaf2-43b6-ad87-f680bf3fe740",
+      "DisplayName": "Object detect",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
