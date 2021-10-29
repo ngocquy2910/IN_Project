@@ -20,7 +20,7 @@ namespace Object_detect
         public void CreateButton(Panel Show)
         {
             
-            int TOP = 0, LEFT = 0;
+            int TOP = 50, LEFT = 50;
 
             for (int i = 1; i <= 15; i++)
             {
@@ -56,14 +56,9 @@ namespace Object_detect
                 if(i % 5 == 0)
                 {
                     TOP += 120;
-                    LEFT = 0;
+                    LEFT = 50;
 
-                }
-               
-                    
-                
-                
-                
+                }                
             }
         }
         public void bt_Click(object sender, EventArgs e)

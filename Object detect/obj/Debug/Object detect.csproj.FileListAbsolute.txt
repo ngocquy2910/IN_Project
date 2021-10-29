@@ -376,4 +376,3 @@ D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Numeri
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.AssemblyReference.cache
-D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.CopyComplete
