@@ -23,6 +23,7 @@ namespace Object_detect
             lb_GT.Text = Connect_SQL_IN.TongGiuongTrong(MP).ToString();
             lb_GU.Text = Connect_SQL_IN.TongGiuongUse(MP).ToString();
             lb_TongG.Text = Connect_SQL_IN.TongGiuong(MP).ToString();
+            btn_XemCTBN.Visible = false;
           // HienThiGiuong();
            
         }
@@ -98,6 +99,8 @@ namespace Object_detect
             Button current = (Button)sender;
             Connect_SQL_IN.HienThiCTBA(lb_Number,lb_BI,lb_Name,current.Name);
             SG = current.Name;
+            if (lb_Name.Text != "")
+                btn_XemCTBN.Visible = true;
         }
 
         private void btn_XemCTBN_Click(object sender, EventArgs e)
