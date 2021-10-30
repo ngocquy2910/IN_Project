@@ -29,5 +29,11 @@ namespace Object_detect
             Connect_SQL_IN.HienThiCTBN(SG, lb_MaBA, lb_TenBN, lb_SDT, lb_DC, lb_GT, lb_Tuoi, lb_ChuanDoan, lb_BS,lb_NgayNhap) ;
             
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Patient_follow_up frm = new Patient_follow_up();
+            frm.Show();
+        }
     }
 }

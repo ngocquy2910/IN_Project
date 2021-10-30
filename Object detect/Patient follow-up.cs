@@ -27,8 +27,8 @@ namespace Object_detect
             timer1.Enabled = true;
         }
 
-        private string query = "select * from healthindex order by InsertAt desc LIMIT 10";
-        private string MySQLConnectionString = "Server=127.0.0.1; Port=3307; Database=yersintalent; Uid=root; Pwd=root; SslMode=none;";
+        private string query = "select InsertAt, NhietDo, NhipTim, NongDoOxy from thongsosuckhoe2 where MaBN = 'BN0001' order by InsertAt desc LIMIT 10";
+        private string MySQLConnectionString = "Server=127.0.0.1; Port=3307; Database=in_data; Uid=root; Pwd=root; SslMode=none;";
         MySqlConnection databaseConnection;
         MySqlCommand commandDatabase;
         string[,] healthIndex = new string[4, 10];

@@ -41,7 +41,7 @@ namespace Object_detect
                     giuong.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(255)))), ((int)(((byte)(128)))));
                     giuong.BackgroundImage = global::Object_detect.Properties.Resources.bet_remove_bg;
                     giuong.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-                    giuong.ForeColor = System.Drawing.Color.White;
+                    giuong.ForeColor = System.Drawing.Color.DarkBlue;
                     giuong.ImageAlign = System.Drawing.ContentAlignment.BottomCenter;
                     giuong.Location = new System.Drawing.Point(x, y);
                     giuong.Name = "button4";
@@ -111,6 +111,11 @@ namespace Object_detect
             {
                 MessageBox.Show("Giường này hiện tại chưa có bệnh nhân");
             }
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

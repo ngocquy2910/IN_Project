@@ -30,11 +30,12 @@ namespace Object_detect
         private void InitializeComponent()
         {
             this.panel_LG_IN = new System.Windows.Forms.Panel();
-            this.label9 = new System.Windows.Forms.Label();
             this.panel7 = new System.Windows.Forms.Panel();
+            this.label9 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
-            this.bt_Thoat = new System.Windows.Forms.Button();
+            this.lb_MaBA = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
+            this.bt_Thoat = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
@@ -52,7 +53,7 @@ namespace Object_detect
             this.lb_ChuanDoan = new System.Windows.Forms.Label();
             this.lb_NgayNhap = new System.Windows.Forms.Label();
             this.lb_BS = new System.Windows.Forms.Label();
-            this.lb_MaBA = new System.Windows.Forms.Label();
+            this.button1 = new System.Windows.Forms.Button();
             this.panel_LG_IN.SuspendLayout();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -62,10 +63,20 @@ namespace Object_detect
             this.panel_LG_IN.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.panel_LG_IN.Controls.Add(this.panel7);
             this.panel_LG_IN.Controls.Add(this.label9);
-            this.panel_LG_IN.Location = new System.Drawing.Point(454, 3);
+            this.panel_LG_IN.Location = new System.Drawing.Point(605, 4);
+            this.panel_LG_IN.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel_LG_IN.Name = "panel_LG_IN";
-            this.panel_LG_IN.Size = new System.Drawing.Size(247, 79);
+            this.panel_LG_IN.Size = new System.Drawing.Size(329, 97);
             this.panel_LG_IN.TabIndex = 66;
+            // 
+            // panel7
+            // 
+            this.panel7.BackgroundImage = global::Object_detect.Properties.Resources.Logo;
+            this.panel7.Location = new System.Drawing.Point(225, 0);
+            this.panel7.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(105, 94);
+            this.panel7.TabIndex = 1;
             // 
             // label9
             // 
@@ -73,19 +84,12 @@ namespace Object_detect
             this.label9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(56)))), ((int)(((byte)(143)))));
             this.label9.Font = new System.Drawing.Font("Bahnschrift", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label9.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label9.Location = new System.Drawing.Point(7, 28);
+            this.label9.Location = new System.Drawing.Point(9, 34);
+            this.label9.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(153, 23);
+            this.label9.Size = new System.Drawing.Size(192, 29);
             this.label9.TabIndex = 0;
             this.label9.Text = "Intelligent Nurse";
-            // 
-            // panel7
-            // 
-            this.panel7.BackgroundImage = global::Object_detect.Properties.Resources.Logo;
-            this.panel7.Location = new System.Drawing.Point(169, 0);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(79, 76);
-            this.panel7.TabIndex = 1;
             // 
             // panel1
             // 
@@ -95,9 +99,34 @@ namespace Object_detect
             this.panel1.Controls.Add(this.label6);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Top;
             this.panel1.Location = new System.Drawing.Point(0, 0);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(704, 82);
+            this.panel1.Size = new System.Drawing.Size(939, 101);
             this.panel1.TabIndex = 67;
+            // 
+            // lb_MaBA
+            // 
+            this.lb_MaBA.AutoSize = true;
+            this.lb_MaBA.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.lb_MaBA.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.lb_MaBA.Location = new System.Drawing.Point(172, 43);
+            this.lb_MaBA.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.lb_MaBA.Name = "lb_MaBA";
+            this.lb_MaBA.Size = new System.Drawing.Size(122, 24);
+            this.lb_MaBA.TabIndex = 98;
+            this.lb_MaBA.Text = "Mã Bệnh Án:";
+            // 
+            // label6
+            // 
+            this.label6.AutoSize = true;
+            this.label6.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
+            this.label6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.label6.Location = new System.Drawing.Point(36, 43);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
+            this.label6.Name = "label6";
+            this.label6.Size = new System.Drawing.Size(122, 24);
+            this.label6.TabIndex = 97;
+            this.label6.Text = "Mã Bệnh Án:";
             // 
             // bt_Thoat
             // 
@@ -105,33 +134,24 @@ namespace Object_detect
             this.bt_Thoat.BackColor = System.Drawing.Color.DarkGray;
             this.bt_Thoat.Font = new System.Drawing.Font("Segoe UI", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bt_Thoat.ForeColor = System.Drawing.Color.White;
-            this.bt_Thoat.Location = new System.Drawing.Point(565, 391);
+            this.bt_Thoat.Location = new System.Drawing.Point(753, 481);
+            this.bt_Thoat.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.bt_Thoat.Name = "bt_Thoat";
-            this.bt_Thoat.Size = new System.Drawing.Size(115, 47);
+            this.bt_Thoat.Size = new System.Drawing.Size(153, 58);
             this.bt_Thoat.TabIndex = 96;
             this.bt_Thoat.Text = "Trở lại";
             this.bt_Thoat.UseVisualStyleBackColor = false;
             this.bt_Thoat.Click += new System.EventHandler(this.bt_Thoat_Click);
-            // 
-            // label6
-            // 
-            this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.label6.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.label6.Location = new System.Drawing.Point(27, 35);
-            this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(98, 19);
-            this.label6.TabIndex = 97;
-            this.label6.Text = "Mã Bệnh Án:";
             // 
             // label1
             // 
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label1.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label1.Location = new System.Drawing.Point(27, 121);
+            this.label1.Location = new System.Drawing.Point(36, 149);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(63, 19);
+            this.label1.Size = new System.Drawing.Size(78, 24);
             this.label1.TabIndex = 98;
             this.label1.Text = "Tên BN:";
             // 
@@ -140,9 +160,10 @@ namespace Object_detect
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label2.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label2.Location = new System.Drawing.Point(27, 160);
+            this.label2.Location = new System.Drawing.Point(36, 197);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(54, 19);
+            this.label2.Size = new System.Drawing.Size(66, 24);
             this.label2.TabIndex = 99;
             this.label2.Text = "Số ĐT:";
             // 
@@ -151,9 +172,10 @@ namespace Object_detect
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label3.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label3.Location = new System.Drawing.Point(27, 287);
+            this.label3.Location = new System.Drawing.Point(36, 353);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(62, 19);
+            this.label3.Size = new System.Drawing.Size(76, 24);
             this.label3.TabIndex = 100;
             this.label3.Text = "Địa chỉ:";
             // 
@@ -162,9 +184,10 @@ namespace Object_detect
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label4.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label4.Location = new System.Drawing.Point(27, 203);
+            this.label4.Location = new System.Drawing.Point(36, 250);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(71, 19);
+            this.label4.Size = new System.Drawing.Size(88, 24);
             this.label4.TabIndex = 101;
             this.label4.Text = "Giới tính:";
             // 
@@ -173,9 +196,10 @@ namespace Object_detect
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label5.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label5.Location = new System.Drawing.Point(27, 246);
+            this.label5.Location = new System.Drawing.Point(36, 303);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(42, 19);
+            this.label5.Size = new System.Drawing.Size(51, 24);
             this.label5.TabIndex = 102;
             this.label5.Text = "Tuổi:";
             // 
@@ -184,9 +208,10 @@ namespace Object_detect
             this.label7.AutoSize = true;
             this.label7.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label7.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label7.Location = new System.Drawing.Point(352, 121);
+            this.label7.Location = new System.Drawing.Point(469, 149);
+            this.label7.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(99, 19);
+            this.label7.Size = new System.Drawing.Size(120, 24);
             this.label7.TabIndex = 103;
             this.label7.Text = "Chuẩn đoán:";
             // 
@@ -195,9 +220,10 @@ namespace Object_detect
             this.label8.AutoSize = true;
             this.label8.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label8.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label8.Location = new System.Drawing.Point(352, 160);
+            this.label8.Location = new System.Drawing.Point(469, 197);
+            this.label8.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(90, 19);
+            this.label8.Size = new System.Drawing.Size(110, 24);
             this.label8.TabIndex = 104;
             this.label8.Text = "Ngày nhập:";
             // 
@@ -206,9 +232,10 @@ namespace Object_detect
             this.label10.AutoSize = true;
             this.label10.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label10.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label10.Location = new System.Drawing.Point(352, 216);
+            this.label10.Location = new System.Drawing.Point(469, 266);
+            this.label10.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label10.Name = "label10";
-            this.label10.Size = new System.Drawing.Size(0, 19);
+            this.label10.Size = new System.Drawing.Size(0, 24);
             this.label10.TabIndex = 105;
             // 
             // label11
@@ -216,9 +243,10 @@ namespace Object_detect
             this.label11.AutoSize = true;
             this.label11.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label11.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label11.Location = new System.Drawing.Point(352, 203);
+            this.label11.Location = new System.Drawing.Point(469, 250);
+            this.label11.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label11.Name = "label11";
-            this.label11.Size = new System.Drawing.Size(111, 19);
+            this.label11.Size = new System.Drawing.Size(138, 24);
             this.label11.TabIndex = 106;
             this.label11.Text = "Bác sĩ điều trị:";
             // 
@@ -227,9 +255,10 @@ namespace Object_detect
             this.lb_TenBN.AutoSize = true;
             this.lb_TenBN.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lb_TenBN.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.lb_TenBN.Location = new System.Drawing.Point(96, 121);
+            this.lb_TenBN.Location = new System.Drawing.Point(128, 149);
+            this.lb_TenBN.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lb_TenBN.Name = "lb_TenBN";
-            this.lb_TenBN.Size = new System.Drawing.Size(63, 19);
+            this.lb_TenBN.Size = new System.Drawing.Size(78, 24);
             this.lb_TenBN.TabIndex = 107;
             this.lb_TenBN.Text = "Tên BN:";
             // 
@@ -238,9 +267,10 @@ namespace Object_detect
             this.lb_SDT.AutoSize = true;
             this.lb_SDT.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lb_SDT.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.lb_SDT.Location = new System.Drawing.Point(96, 160);
+            this.lb_SDT.Location = new System.Drawing.Point(128, 197);
+            this.lb_SDT.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lb_SDT.Name = "lb_SDT";
-            this.lb_SDT.Size = new System.Drawing.Size(63, 19);
+            this.lb_SDT.Size = new System.Drawing.Size(78, 24);
             this.lb_SDT.TabIndex = 108;
             this.lb_SDT.Text = "Tên BN:";
             // 
@@ -249,9 +279,10 @@ namespace Object_detect
             this.lb_DC.AutoSize = true;
             this.lb_DC.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lb_DC.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.lb_DC.Location = new System.Drawing.Point(96, 287);
+            this.lb_DC.Location = new System.Drawing.Point(128, 353);
+            this.lb_DC.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lb_DC.Name = "lb_DC";
-            this.lb_DC.Size = new System.Drawing.Size(63, 19);
+            this.lb_DC.Size = new System.Drawing.Size(78, 24);
             this.lb_DC.TabIndex = 109;
             this.lb_DC.Text = "Tên BN:";
             // 
@@ -260,9 +291,10 @@ namespace Object_detect
             this.lb_GT.AutoSize = true;
             this.lb_GT.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lb_GT.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.lb_GT.Location = new System.Drawing.Point(96, 203);
+            this.lb_GT.Location = new System.Drawing.Point(128, 250);
+            this.lb_GT.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lb_GT.Name = "lb_GT";
-            this.lb_GT.Size = new System.Drawing.Size(63, 19);
+            this.lb_GT.Size = new System.Drawing.Size(78, 24);
             this.lb_GT.TabIndex = 110;
             this.lb_GT.Text = "Tên BN:";
             // 
@@ -271,9 +303,10 @@ namespace Object_detect
             this.lb_Tuoi.AutoSize = true;
             this.lb_Tuoi.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lb_Tuoi.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.lb_Tuoi.Location = new System.Drawing.Point(96, 246);
+            this.lb_Tuoi.Location = new System.Drawing.Point(128, 303);
+            this.lb_Tuoi.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lb_Tuoi.Name = "lb_Tuoi";
-            this.lb_Tuoi.Size = new System.Drawing.Size(63, 19);
+            this.lb_Tuoi.Size = new System.Drawing.Size(78, 24);
             this.lb_Tuoi.TabIndex = 111;
             this.lb_Tuoi.Text = "Tên BN:";
             // 
@@ -282,9 +315,10 @@ namespace Object_detect
             this.lb_ChuanDoan.AutoSize = true;
             this.lb_ChuanDoan.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lb_ChuanDoan.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.lb_ChuanDoan.Location = new System.Drawing.Point(471, 121);
+            this.lb_ChuanDoan.Location = new System.Drawing.Point(628, 149);
+            this.lb_ChuanDoan.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lb_ChuanDoan.Name = "lb_ChuanDoan";
-            this.lb_ChuanDoan.Size = new System.Drawing.Size(63, 19);
+            this.lb_ChuanDoan.Size = new System.Drawing.Size(78, 24);
             this.lb_ChuanDoan.TabIndex = 112;
             this.lb_ChuanDoan.Text = "Tên BN:";
             // 
@@ -293,9 +327,10 @@ namespace Object_detect
             this.lb_NgayNhap.AutoSize = true;
             this.lb_NgayNhap.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lb_NgayNhap.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.lb_NgayNhap.Location = new System.Drawing.Point(471, 160);
+            this.lb_NgayNhap.Location = new System.Drawing.Point(628, 197);
+            this.lb_NgayNhap.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lb_NgayNhap.Name = "lb_NgayNhap";
-            this.lb_NgayNhap.Size = new System.Drawing.Size(63, 19);
+            this.lb_NgayNhap.Size = new System.Drawing.Size(78, 24);
             this.lb_NgayNhap.TabIndex = 113;
             this.lb_NgayNhap.Text = "Tên BN:";
             // 
@@ -304,29 +339,35 @@ namespace Object_detect
             this.lb_BS.AutoSize = true;
             this.lb_BS.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.lb_BS.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.lb_BS.Location = new System.Drawing.Point(469, 203);
+            this.lb_BS.Location = new System.Drawing.Point(625, 250);
+            this.lb_BS.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lb_BS.Name = "lb_BS";
-            this.lb_BS.Size = new System.Drawing.Size(63, 19);
+            this.lb_BS.Size = new System.Drawing.Size(78, 24);
             this.lb_BS.TabIndex = 114;
             this.lb_BS.Text = "Tên BN:";
             // 
-            // lb_MaBA
+            // button1
             // 
-            this.lb_MaBA.AutoSize = true;
-            this.lb_MaBA.Font = new System.Drawing.Font("Bahnschrift", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
-            this.lb_MaBA.ForeColor = System.Drawing.SystemColors.ControlLightLight;
-            this.lb_MaBA.Location = new System.Drawing.Point(129, 35);
-            this.lb_MaBA.Name = "lb_MaBA";
-            this.lb_MaBA.Size = new System.Drawing.Size(98, 19);
-            this.lb_MaBA.TabIndex = 98;
-            this.lb_MaBA.Text = "Mã Bệnh Án:";
+            this.button1.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.button1.BackColor = System.Drawing.Color.DarkGray;
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Location = new System.Drawing.Point(16, 481);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(278, 58);
+            this.button1.TabIndex = 115;
+            this.button1.Text = "Chi tiết thông số sức khỏe";
+            this.button1.UseVisualStyleBackColor = false;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // CT_BenhNhan
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(704, 450);
+            this.ClientSize = new System.Drawing.Size(939, 554);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.lb_BS);
             this.Controls.Add(this.lb_NgayNhap);
             this.Controls.Add(this.lb_ChuanDoan);
@@ -346,6 +387,7 @@ namespace Object_detect
             this.Controls.Add(this.label1);
             this.Controls.Add(this.bt_Thoat);
             this.Controls.Add(this.panel1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "CT_BenhNhan";
             this.Text = "CT_BenhNhan";
             this.Load += new System.EventHandler(this.CT_BenhNhan_Load);
@@ -384,5 +426,6 @@ namespace Object_detect
         private System.Windows.Forms.Label lb_ChuanDoan;
         private System.Windows.Forms.Label lb_NgayNhap;
         private System.Windows.Forms.Label lb_BS;
+        private System.Windows.Forms.Button button1;
     }
 }

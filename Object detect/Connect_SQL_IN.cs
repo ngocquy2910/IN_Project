@@ -27,8 +27,8 @@ namespace Object_detect
         public static MySqlConnection GetDBConnection()
         {
             string host = "127.0.0.1";
-            int port = 3306;
-            string database = "indata";
+            int port = 3307;
+            string database = "in_data";
             string username = "root";
             string password = "";
             MySqlConnection conn = Connect_MySql(host,port,database,username,password);
