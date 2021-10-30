@@ -13,6 +13,11 @@ namespace Object_detect
 {
     public partial class Home : Form
     {
+        int day = DateTime.Now.Day;
+        int month = DateTime.Now.Month;
+        int year = DateTime.Now.Year;
+        int gio = DateTime.Now.Hour;
+        int phut = DateTime.Now.Minute;
         [DllImport("Gdi32.dll", EntryPoint = "CreateRoundRectRgn")]
         private static extern IntPtr CreateRoundRectRgn
          (
@@ -147,7 +152,21 @@ namespace Object_detect
 
         private void Home_Load(object sender, EventArgs e)
         {
-            rick_txt_send.Region = Region.FromHrgn(CreateRoundRectRgn(0, 0, rick_txt_send.Width, rick_txt_send.Height, 30, 30));
+            thoigian.Text = gio + " : " + phut;
+            ngaythangnam.Text = day + "/" + month + "/" + year;
+            if(gio<13)
+            {
+                sangchieutoi.Text = "Good Morning!";
+
+            }
+            else if(gio<=18)
+            {
+                sangchieutoi.Text = "Good Afternoon!";
+            }
+            else
+            {
+                sangchieutoi.Text = "Good Evening!";
+            }
             Connect_SQL_IN.GetDBConnection(); // conncet Mysql;
             HienThiKhoa();
         }
@@ -187,7 +206,7 @@ namespace Object_detect
                 Khoa.ForeColor = System.Drawing.Color.White;
                 Khoa.Location = new System.Drawing.Point(0, x);
                 Khoa.Name = "btn_Emergency_department";
-                Khoa.Size = new System.Drawing.Size(222, 45);
+                Khoa.Size = new System.Drawing.Size(222, 80);
                 Khoa.TabIndex = 2;
               //  Khoa.Text = "NÚT TEST "+ i;
                 Khoa.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
@@ -196,17 +215,18 @@ namespace Object_detect
          
                 Connect_SQL_IN.HienThiTenKhoa(Khoa, i);
                 this.panel_Directional.Controls.Add(Khoa);
-                x += 45;
+                x += 80;
 
-                if(Khoa.Name == "Emergency department")
+                if(Khoa.Name == "Diagnostic imaging department")
                 {
                       Khoa.Click += new System.EventHandler(this.Btn_General_Medical);
                 }
-                if(Khoa.Name == "Patient follow-up")
+                else if (Khoa.Name == "AI Medicine")
                 {
-                  // Khoa.Click += new System.EventHandler(this.Btn_Patient_follow_up); // Lỗi hiển thị vô hạn.
+                    // Khoa.Click += new System.EventHandler(this.Btn_Patient_follow_up); // Lỗi hiển thị vô hạn.
+                    Khoa.Click += new System.EventHandler(this.Btn_ai_medicine);
                 }
-                if (Khoa.Name == "Statistics of hospital beds" || Khoa.Name == "Genenal Medical"|| Khoa.Name == "Patient follow-up")
+                else
                 {
                     Khoa.Click += new System.EventHandler(this.Btn_Statistics_of_hospital_beds);
                 }
@@ -226,7 +246,11 @@ namespace Object_detect
             Button current = (Button)sender;
             openChildForm(new General_Medical());
         }
-
+        private void Btn_ai_medicine(Object sender, EventArgs e)
+        {
+            Button current = (Button)sender;
+            openChildForm(new AI_Medicine());
+        }
         private void Btn_Patient_follow_up(Object sender, EventArgs e)
         {
             Button current = (Button)sender;
@@ -237,6 +261,20 @@ namespace Object_detect
         {
             Button current = (Button)sender;
             openChildForm(new Statistics_of_hospital_beds());
+        }
+
+        private void panel_main_Paint(object sender, PaintEventArgs e)
+        {
+            label2.BackColor = Color.Transparent;
+            //label1.BackColor = Color.Transparent;
+            sangchieutoi.BackColor = Color.Transparent;
+            ngaythangnam.BackColor = Color.Transparent;
+            thoigian.BackColor = Color.Transparent;
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
 
         //-----------------------------------------END: Tạo Sự kiện button------------------------------------------------

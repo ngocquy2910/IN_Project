@@ -246,7 +246,7 @@ namespace Object_detect
             }
             if (richText_MoveHopital.Text == "")
             {
-                richText_MoveHopital.Text = "Khong Co Benh Ve Phoi";
+                richText_MoveHopital.Text = "No Problem!";
             }
 
 
