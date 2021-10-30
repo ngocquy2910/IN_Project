@@ -77,7 +77,7 @@ namespace Object_detect
             this.label9.AutoSize = true;
             this.label9.Font = new System.Drawing.Font("Bahnschrift", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(163)));
             this.label9.ForeColor = System.Drawing.SystemColors.HotTrack;
-            this.label9.Location = new System.Drawing.Point(875, 110);
+            this.label9.Location = new System.Drawing.Point(858, 110);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(83, 23);
             this.label9.TabIndex = 106;
@@ -87,7 +87,7 @@ namespace Object_detect
             // 
             this.txt_chat.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.txt_chat.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            this.txt_chat.Location = new System.Drawing.Point(879, 533);
+            this.txt_chat.Location = new System.Drawing.Point(862, 533);
             this.txt_chat.Multiline = true;
             this.txt_chat.Name = "txt_chat";
             this.txt_chat.Size = new System.Drawing.Size(256, 153);
@@ -97,7 +97,7 @@ namespace Object_detect
             // 
             this.richText_Send.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
             this.richText_Send.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.richText_Send.Location = new System.Drawing.Point(879, 148);
+            this.richText_Send.Location = new System.Drawing.Point(862, 148);
             this.richText_Send.Name = "richText_Send";
             this.richText_Send.Size = new System.Drawing.Size(256, 367);
             this.richText_Send.TabIndex = 104;
@@ -337,7 +337,7 @@ namespace Object_detect
             this.btn_Send.BackColor = System.Drawing.Color.RoyalBlue;
             this.btn_Send.Font = new System.Drawing.Font("Segoe UI", 9.75F, ((System.Drawing.FontStyle)((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Italic))), System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Send.ForeColor = System.Drawing.Color.White;
-            this.btn_Send.Location = new System.Drawing.Point(879, 692);
+            this.btn_Send.Location = new System.Drawing.Point(862, 692);
             this.btn_Send.Name = "btn_Send";
             this.btn_Send.Size = new System.Drawing.Size(245, 33);
             this.btn_Send.TabIndex = 101;
