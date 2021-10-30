@@ -43,6 +43,7 @@ namespace Object_detect
                 else
                 {
                     label2.Text = "Patient at bed D2345 has a bad change in spo2 index";
+                    
                 }
             }
             else
