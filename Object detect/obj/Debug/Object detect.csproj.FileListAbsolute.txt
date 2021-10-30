@@ -348,12 +348,10 @@ D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dyn
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.dll
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\MySql.Data.dll
-D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\MySqlConnector.dll
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Buffers.dll
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Memory.dll
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Numerics.Vectors.dll
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
-D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Threading.Tasks.Extensions.dll
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Ubiety.Dns.Core.dll
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\ZstdNet.dll
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Google.Protobuf.pdb
@@ -369,10 +367,66 @@ D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Dyn
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.xml
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\MySql.Data.xml
-D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\MySqlConnector.xml
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Buffers.xml
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Memory.xml
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Numerics.Vectors.xml
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-D:\Project\YOLO API\YOLO API\Object detect\Object detect\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object detect.csproj.AssemblyReference.cache
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object detect.csproj.AssemblyReference.cache
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object_detect.AI_Medicine.resources
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object_detect.General_Medical.resources
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object_detect.Home.resources
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object_detect.Home2.resources
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object_detect.Patient_follow_up.resources
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object_detect.Properties.Resources.resources
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object_detect.Statistics_of_hospital_beds.resources
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object_detect.WarningForm.resources
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object detect.csproj.GenerateResource.cache
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object detect.csproj.CoreCompileInputs.cache
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object detect.exe
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object detect.pdb
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\cvextern.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\msvcp120.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\msvcr120.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\opencv_ffmpeg310_64.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Object detect.exe.config
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Object detect.exe
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Object detect.pdb
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\BouncyCastle.Crypto.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Google.Protobuf.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\IronPython.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\IronPython.Modules.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\IronPython.SQLite.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\IronPython.Wpf.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\K4os.Compression.LZ4.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\K4os.Hash.xxHash.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Microsoft.Dynamic.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Microsoft.Scripting.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Microsoft.Scripting.Metadata.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\MySql.Data.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\System.Buffers.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\System.Memory.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\System.Numerics.Vectors.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Ubiety.Dns.Core.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\ZstdNet.dll
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Google.Protobuf.pdb
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Google.Protobuf.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\IronPython.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\IronPython.Modules.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\IronPython.SQLite.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\IronPython.Wpf.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\K4os.Compression.LZ4.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\K4os.Hash.xxHash.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Microsoft.Dynamic.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Microsoft.Scripting.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\Microsoft.Scripting.Metadata.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\MySql.Data.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\System.Buffers.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\System.Memory.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\System.Numerics.Vectors.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Intelligent Nurse\IN_PJ\Object detect\obj\Debug\Object_detect.CT_BenhNhan.resources
+D:\Project\YOLO API\YOLO API\Object detect\Object detect\obj\Debug\Object_detect.CT_BenhNhan.resources

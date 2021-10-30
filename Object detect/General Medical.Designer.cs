@@ -39,24 +39,24 @@ namespace Object_detect
             this.txt_PatientID = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.panel_x_ray = new System.Windows.Forms.Panel();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.label6 = new System.Windows.Forms.Label();
             this.panel_LG_IN = new System.Windows.Forms.Panel();
+            this.panel7 = new System.Windows.Forms.Panel();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.richText_chat = new System.Windows.Forms.RichTextBox();
             this.label7 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
             this.label9 = new System.Windows.Forms.Label();
             this.label10 = new System.Windows.Forms.Label();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
-            this.panel3 = new System.Windows.Forms.Panel();
-            this.richText_chat = new System.Windows.Forms.RichTextBox();
-            this.panel7 = new System.Windows.Forms.Panel();
             this.panel_x_ray.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel_LG_IN.SuspendLayout();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel3.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -76,7 +76,7 @@ namespace Object_detect
             // richText_MoveHopital
             // 
             this.richText_MoveHopital.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.richText_MoveHopital.BackColor = System.Drawing.Color.White;
+            this.richText_MoveHopital.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.richText_MoveHopital.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richText_MoveHopital.Location = new System.Drawing.Point(399, 484);
             this.richText_MoveHopital.Name = "richText_MoveHopital";
@@ -101,7 +101,7 @@ namespace Object_detect
             // richText_Send
             // 
             this.richText_Send.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.richText_Send.BackColor = System.Drawing.Color.White;
+            this.richText_Send.BackColor = System.Drawing.SystemColors.GradientInactiveCaption;
             this.richText_Send.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richText_Send.Location = new System.Drawing.Point(685, 485);
             this.richText_Send.Name = "richText_Send";
@@ -176,6 +176,15 @@ namespace Object_detect
             this.panel_x_ray.Size = new System.Drawing.Size(277, 245);
             this.panel_x_ray.TabIndex = 89;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(-2, -2);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(277, 245);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
             // label3
             // 
             this.label3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -235,6 +244,14 @@ namespace Object_detect
             this.panel_LG_IN.Size = new System.Drawing.Size(245, 82);
             this.panel_LG_IN.TabIndex = 85;
             // 
+            // panel7
+            // 
+            this.panel7.BackgroundImage = global::Object_detect.Properties.Resources.Logo;
+            this.panel7.Location = new System.Drawing.Point(166, -10);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(79, 86);
+            this.panel7.TabIndex = 1;
+            // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(56)))), ((int)(((byte)(143)))));
@@ -245,6 +262,24 @@ namespace Object_detect
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1092, 75);
             this.panel1.TabIndex = 85;
+            // 
+            // panel3
+            // 
+            this.panel3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.panel3.BackgroundImage = global::Object_detect.Properties.Resources._2021_10_07__9_;
+            this.panel3.Controls.Add(this.richText_chat);
+            this.panel3.Location = new System.Drawing.Point(378, 155);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(679, 250);
+            this.panel3.TabIndex = 88;
+            // 
+            // richText_chat
+            // 
+            this.richText_chat.Location = new System.Drawing.Point(21, 15);
+            this.richText_chat.Name = "richText_chat";
+            this.richText_chat.Size = new System.Drawing.Size(638, 216);
+            this.richText_chat.TabIndex = 0;
+            this.richText_chat.Text = "";
             // 
             // label7
             // 
@@ -300,41 +335,6 @@ namespace Object_detect
             this.label10.Text = "Diagnose";
             this.label10.Click += new System.EventHandler(this.label10_Click);
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Location = new System.Drawing.Point(-2, -2);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(277, 245);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
-            // panel3
-            // 
-            this.panel3.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.panel3.BackgroundImage = global::Object_detect.Properties.Resources._2021_10_07__9_;
-            this.panel3.Controls.Add(this.richText_chat);
-            this.panel3.Location = new System.Drawing.Point(378, 155);
-            this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(679, 250);
-            this.panel3.TabIndex = 88;
-            // 
-            // richText_chat
-            // 
-            this.richText_chat.Location = new System.Drawing.Point(21, 15);
-            this.richText_chat.Name = "richText_chat";
-            this.richText_chat.Size = new System.Drawing.Size(638, 216);
-            this.richText_chat.TabIndex = 0;
-            this.richText_chat.Text = "";
-            // 
-            // panel7
-            // 
-            this.panel7.BackgroundImage = global::Object_detect.Properties.Resources.Logo;
-            this.panel7.Location = new System.Drawing.Point(166, -10);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(79, 86);
-            this.panel7.TabIndex = 1;
-            // 
             // General_Medical
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -363,11 +363,11 @@ namespace Object_detect
             this.Text = "v";
             this.Load += new System.EventHandler(this.General_Medical_Load);
             this.panel_x_ray.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel_LG_IN.ResumeLayout(false);
             this.panel_LG_IN.PerformLayout();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.panel3.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
